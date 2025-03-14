@@ -1,6 +1,5 @@
 # liveDomain
 
-# Domain Checker  
 
 A high-performance **Rust-based** domain checker that efficiently verifies if domains are **active** or **dead** using **async HTTP requests**.  
 
