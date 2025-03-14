@@ -16,10 +16,10 @@ cargo build --release
 ```sh
 ./domain_checker -f subdomain.txt -v
 ```
-Options :
+H4 Options :
 
--f <file> – Input file containing domains.
+> -f  –>Input file containing domains.
 
--v – Verbose mode.
+>  -v –> Verbose mode.
 
--V – Show version.
+>  -V –>Show version.
